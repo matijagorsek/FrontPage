@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="fragment_container" type="id" />
+    <item name="front_page_logo" type="id" />
+    <item name="logo_text" type="id" />
+    <item name="post_image_view" type="id" />
+    <item name="content_title" type="id" />
+    <item name="message" type="id" />
+    <item name="likes" type="id" />
+    <item name="text_details" type="id" />
+    <item name="login_button" type="id" />
+    <item name="adapter_view" type="id" />
+    <item name="toolbar" type="id" />
+    <item name="post_time" type="id" />
+    <item name="comments" type="id" />
+    <item name="clicked_post" type="id" />
+
+
+
+
+
+
+
+
+</resources>

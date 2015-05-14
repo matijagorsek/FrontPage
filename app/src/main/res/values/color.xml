@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#FFF2C9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="accent_facebook_button">#2f487a</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#ff3224ff</color>
+    <color name="green">#ff25ff11</color>
+
+</resources>

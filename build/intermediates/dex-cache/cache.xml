@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-69e379f9ba1aa4f9c8f461d8a722e433b3a0dae7.jar" />
+    </item>
+    <item
+        jar="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\pre-dexed\debug\classes-14d6231b95212069320080a7b84c0c8708c465c8.jar" />
+    </item>
+    <item
+        jar="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\pre-dexed\debug\classes-89b04e360e48ce8971b78450da4332f0abebaf2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\IvanAzenic\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-4a286f6519c22b6b97a68619696cc305cbe15b7e.jar" />
+    </item>
+    <item
+        jar="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\pre-dexed\debug\classes-e049c727fc307f355389112731cfab058daa62ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\IvanAzenic\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\pre-dexed\debug\picasso-2.3.2-45ae97884747b8628eb5c178a3759393b402c576.jar" />
+    </item>
+    <item
+        jar="C:\Users\IvanAzenic\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\pre-dexed\debug\gson-2.2.4-dbd360ca417c690c8c82ea87facaf3755b68c3f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\IvanAzenic\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\IvanAzenic\Desktop\Programs\FrontPage\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-34173d050c4937891a413137f212b45bb27b4f7e.jar" />
+    </item>
+
+</items>

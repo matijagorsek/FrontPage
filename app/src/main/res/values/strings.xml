@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FrontPage</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">972217569465149</string>
+    <string name="logo_text">Front Page</string>
+    <string name="proba">iadjsai</string>
+
+</resources>
